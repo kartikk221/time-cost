@@ -1,0 +1,31 @@
+{
+  "name": "time-cost",
+  "version": "1.0.0",
+  "description": "A simple package to accurately measure the time cost of code in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikk221/time-cost.git"
+  },
+  "keywords": [
+    "simple",
+    "time",
+    "cost",
+    "high",
+    "resolution",
+    "milliseconds",
+    "nanoseconds",
+    "measure",
+    "benchmark",
+    "fast"
+  ],
+  "author": "kartikk221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikk221/time-cost/issues"
+  },
+  "homepage": "https://github.com/kartikk221/time-cost#readme"
+}
